@@ -39,7 +39,7 @@ nosetests.xml
 node_modules
 
 # Bower Modules
-#public/lib
+public/lib
 
 # PyCharm Project Files
 .idea

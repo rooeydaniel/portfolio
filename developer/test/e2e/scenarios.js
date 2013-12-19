@@ -5,7 +5,7 @@
 describe('portfolio app', function() {
 
   beforeEach(function() {
-    browser().navigateTo('app/index.html');
+    browser().navigateTo('public/index.html');
   });
 
 
